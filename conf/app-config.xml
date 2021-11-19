@@ -1,0 +1,18 @@
+<config>
+    <connection>
+        <hostname>localhost</hostname>
+        <port>3306</port>
+        <dbname>dbppob</dbname>
+        <user>root</user>
+        <password>toor</password>
+    </connection>
+    <url>
+        <path>http://192.168.26.200:10063?</path>
+        <timeout>20000</timeout>
+    </url>
+    <message>
+        <cid>ez3t6f-facfed-6293-11e6-8325-002590cc</cid>
+        <skey>@4k5e5v51</skey>
+        <response>json</response>
+    </message>
+</config>
