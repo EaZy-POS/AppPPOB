@@ -4,3 +4,4 @@
 [26-11-2021 14:34:57.605]: GW RESPONSE to HTTP : http://192.168.26.64:10017/voucher/inq Param {"voucherId":"TN5","modul":"ISI","tujuan":"082313018944","command":"INQ"}
 [26-11-2021 14:35:05.511]: GW REQUEST to HTTP : http://192.168.26.64:10017/voucher/pay Param {"voucherId":"TN5","modul":"ISI","tujuan":"082313018944","trxid":"AF0FA52483ED46BA","command":"PAY"}
 [26-11-2021 14:35:06.310]: GW RESPONSE to HTTP : http://192.168.26.64:10017/voucher/pay Param {"voucherId":"TN5","modul":"ISI","tujuan":"082313018944","trxid":"AF0FA52483ED46BA","command":"PAY"}
+[27-11-2021 19:20:51.028]: Biller REQUEST to HTTP : http://192.168.26.64:10017command=INQ&modul=ISI&trxid=5712FFF2950F4D8E&cid=ez3t6f-facfed-6293-11e6-8325-002590cc&dt=20211127192050&resp=json&hc=ddf5ad92cef2fd8978ecad7e9e03fa1af126604e345d04295ed928494fba00d2&tujuan=082313018944&voucherId=TN5
