@@ -16,7 +16,7 @@
         <password>toor</password>
     </connection>
     <url>
-        <path>http://192.168.26.64:10017</path>
+        <path>http://192.168.26.200:10063?</path>
         <timeout>20000</timeout>
         
         <inq-voucher-path>/voucher/inq</inq-voucher-path>
@@ -44,5 +44,6 @@
         <skey>@4k5e5v51</skey>
         <response>json</response>
         <is-to-gateway>false</is-to-gateway>
+	<is-simulator>true</is-simulator>
     </message>
 </config>
