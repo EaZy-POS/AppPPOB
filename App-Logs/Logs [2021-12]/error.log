@@ -15,3 +15,9 @@
   [Stacktrace:(java.util.concurrent.ThreadPoolExecutor$Worker:run:-1)]
   [Stacktrace:(java.lang.Thread:run:-1)]
 
+[04-12-2021 16:06:12.131]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
+[04-12-2021 16:06:17.664]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
