@@ -21,3 +21,70 @@
 [04-12-2021 16:06:17.664]: Error Inser Log Message
    java.lang.Thread.run(Unknown Source)
 
+[04-12-2021 16:11:50.995]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
+[04-12-2021 16:11:56.062]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
+[04-12-2021 16:11:58.813]: ERROR: JSONObject["201870"] not found.
+[Exception: JSONObject["201870"] not found.]
+   [Stacktrace:(org.json.JSONObject:get:573)]
+  [Stacktrace:(app.ppob.controller.PLNPostpaidController:updateSuccessTranmain:426)]
+  [Stacktrace:(app.ppob.controller.PLNPostpaidController:perfomPayment:152)]
+  [Stacktrace:(app.ppob.controller.General$1$1:call:156)]
+  [Stacktrace:(app.ppob.controller.General$1$1:call:147)]
+  [Stacktrace:(javafx.concurrent.Task$TaskCallable:call:1423)]
+  [Stacktrace:(java.util.concurrent.FutureTask:run:-1)]
+  [Stacktrace:(javafx.concurrent.Service:lambda$null$6:725)]
+  [Stacktrace:(java.security.AccessController:doPrivileged:-2)]
+  [Stacktrace:(javafx.concurrent.Service:lambda$executeTask$7:724)]
+  [Stacktrace:(java.util.concurrent.ThreadPoolExecutor:runWorker:-1)]
+  [Stacktrace:(java.util.concurrent.ThreadPoolExecutor$Worker:run:-1)]
+  [Stacktrace:(java.lang.Thread:run:-1)]
+
+[04-12-2021 16:13:46.827]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
+[04-12-2021 16:13:50.241]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
+[04-12-2021 16:13:58.906]: ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'MMY-VSI-532110000113","info1":"Informasi Hubungi Call Center: 123 Atau Hub. PLN ' at line 1
+[Exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'MMY-VSI-532110000113","info1":"Informasi Hubungi Call Center: 123 Atau Hub. PLN ' at line 1]
+   [Stacktrace:(sun.reflect.NativeConstructorAccessorImpl:newInstance0:-2)]
+  [Stacktrace:(sun.reflect.NativeConstructorAccessorImpl:newInstance:-1)]
+  [Stacktrace:(sun.reflect.DelegatingConstructorAccessorImpl:newInstance:-1)]
+  [Stacktrace:(java.lang.reflect.Constructor:newInstance:-1)]
+  [Stacktrace:(com.mysql.jdbc.Util:handleNewInstance:411)]
+  [Stacktrace:(com.mysql.jdbc.Util:getInstance:386)]
+  [Stacktrace:(com.mysql.jdbc.SQLError:createSQLException:1053)]
+  [Stacktrace:(com.mysql.jdbc.MysqlIO:checkErrorPacket:4120)]
+  [Stacktrace:(com.mysql.jdbc.MysqlIO:checkErrorPacket:4052)]
+  [Stacktrace:(com.mysql.jdbc.MysqlIO:sendCommand:2503)]
+  [Stacktrace:(com.mysql.jdbc.MysqlIO:sqlQueryDirect:2664)]
+  [Stacktrace:(com.mysql.jdbc.ConnectionImpl:execSQL:2788)]
+  [Stacktrace:(com.mysql.jdbc.StatementImpl:executeUpdate:1816)]
+  [Stacktrace:(com.mysql.jdbc.StatementImpl:executeUpdate:1730)]
+  [Stacktrace:(co.id.eazy.query.service.QueryService:executeQueryUpdate:78)]
+  [Stacktrace:(co.id.eazy.query.service.QueryService:sendQueryInsert:84)]
+  [Stacktrace:(app.ppob.controller.General:insertToDatabase:233)]
+  [Stacktrace:(app.ppob.controller.General:insertToSaleTemp:625)]
+  [Stacktrace:(app.ppob.controller.PLNPostpaidController:updateSuccessTranmain:432)]
+  [Stacktrace:(app.ppob.controller.PLNPostpaidController:perfomPayment:152)]
+  [Stacktrace:(app.ppob.controller.General$1$1:call:156)]
+  [Stacktrace:(app.ppob.controller.General$1$1:call:147)]
+  [Stacktrace:(javafx.concurrent.Task$TaskCallable:call:1423)]
+  [Stacktrace:(java.util.concurrent.FutureTask:run:-1)]
+  [Stacktrace:(javafx.concurrent.Service:lambda$null$6:725)]
+  [Stacktrace:(java.security.AccessController:doPrivileged:-2)]
+  [Stacktrace:(javafx.concurrent.Service:lambda$executeTask$7:724)]
+  [Stacktrace:(java.util.concurrent.ThreadPoolExecutor:runWorker:-1)]
+  [Stacktrace:(java.util.concurrent.ThreadPoolExecutor$Worker:run:-1)]
+  [Stacktrace:(java.lang.Thread:run:-1)]
+
+[04-12-2021 16:15:19.943]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
+[04-12-2021 16:15:23.926]: Error Inser Log Message
+   java.lang.Thread.run(Unknown Source)
+
