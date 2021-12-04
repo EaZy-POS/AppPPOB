@@ -1,0 +1,17 @@
+[04-12-2021 15:48:22.533]: ERROR: null
+[Exception: null]
+   [Stacktrace:(app.ppob.controller.General:setFooterStruk:823)]
+  [Stacktrace:(app.ppob.controller.General:setFooter:817)]
+  [Stacktrace:(app.ppob.controller.VoucherController:updateSuccessTranmain:425)]
+  [Stacktrace:(app.ppob.controller.VoucherController:perfomPayment:318)]
+  [Stacktrace:(app.ppob.controller.General$1$1:call:162)]
+  [Stacktrace:(app.ppob.controller.General$1$1:call:153)]
+  [Stacktrace:(javafx.concurrent.Task$TaskCallable:call:1423)]
+  [Stacktrace:(java.util.concurrent.FutureTask:run:-1)]
+  [Stacktrace:(javafx.concurrent.Service:lambda$null$6:725)]
+  [Stacktrace:(java.security.AccessController:doPrivileged:-2)]
+  [Stacktrace:(javafx.concurrent.Service:lambda$executeTask$7:724)]
+  [Stacktrace:(java.util.concurrent.ThreadPoolExecutor:runWorker:-1)]
+  [Stacktrace:(java.util.concurrent.ThreadPoolExecutor$Worker:run:-1)]
+  [Stacktrace:(java.lang.Thread:run:-1)]
+
