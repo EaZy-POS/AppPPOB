@@ -16,8 +16,8 @@
         <password>toor</password>
     </connection>
     <url>
-<!--        <path>http://101.50.3.174:10010</path>-->
-        <path>http://192.168.26.200:10063?</path>
+        <path>http://101.50.3.174:10010</path>
+<!--        <path>http://192.168.26.200:10063?</path>-->
         <timeout>20000</timeout>
         
         <inq-voucher-path>/voucher/inq</inq-voucher-path>
