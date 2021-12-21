@@ -46,7 +46,7 @@
         <cid>ez3t6f-facfed-6293-11e6-8325-002590cc</cid>
         <skey>@4k5e5v51</skey>
         <response>json</response>
-        <is-to-gateway>false</is-to-gateway>
+        <is-to-gateway>true</is-to-gateway>
         <is-simulator>true</is-simulator>
         <mitra-id>EZMT0001</mitra-id>
         <mitra-key>d0f6fc3a-f972-41a9-9</mitra-key>
