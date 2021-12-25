@@ -16,31 +16,8 @@
         <password>toor</password>
     </connection>
     <url>
-        <path>http://101.50.3.174:10010</path>
-<!--        <path>http://192.168.26.200:10063?</path>-->
-        <timeout>20000</timeout>
-        
-        <inq-voucher-path>/voucher/inq</inq-voucher-path>
-        <pay-voucher-path>/voucher/pay</pay-voucher-path>
-        <adv-voucher-path>/voucher/adv</adv-voucher-path>
-        
-        <inq-pdam-path>/pdam/inq</inq-pdam-path>
-        <pay-pdam-path>/pdam/pay</pay-pdam-path>
-        <adv-pdam-path>/pdam/adv</adv-pdam-path>
-        
-        <inq-postpaid-path>/postpaid/inq</inq-postpaid-path>
-        <pay-postpaid-path>/postpaid/pay</pay-postpaid-path>
-        <adv-postpaid-path>/postpaid/adv</adv-postpaid-path>
-        
-        <inq-prepaid-path>/prepaid/inq</inq-prepaid-path>
-        <pay-prepaid-path>/prepaid/pay</pay-prepaid-path>
-        <adv-prepaid-path>/prepaid/adv</adv-prepaid-path>
-        
-        <inq-mp-path>/mp/inq</inq-mp-path>
-        <pay-mp-path>/mp/pay</pay-mp-path>
-        <adv-mp-path>/mp/adv</adv-mp-path>
-        
-        <getsaldo-path>/deposit/getsaldo</getsaldo-path>
+	<path>http://192.168.26.200:10063?</path>
+        <timeout>20000</timeout>        
     </url>
     <message>
         <cid>ez3t6f-facfed-6293-11e6-8325-002590cc</cid>
@@ -48,8 +25,6 @@
         <response>json</response>
         <is-to-gateway>true</is-to-gateway>
         <is-simulator>true</is-simulator>
-        <mitra-id>EZMT0001</mitra-id>
-        <mitra-key>d0f6fc3a-f972-41a9-9</mitra-key>
         <userid>admin</userid>
         <password>admin</password>
     </message>

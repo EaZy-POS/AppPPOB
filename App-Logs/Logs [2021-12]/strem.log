@@ -182,3 +182,7 @@
 [21-12-2021 17:18:32.287]: GW RESPONSE to HTTP : http://101.50.3.174:10010/voucher/pay REsponse {"status":"SUCCESS","rc":"0000","rcm":"[0] Pembayaran Sukses ke:082313018944","text":"Isi pulsa TN5 berhasil untuk nomor 6282313018944 sebesar 5.000, refnum 7281EA5CA8B68171DBD0000000000000 pada tgl 21\/12\/21 17:18","tanggal":"2021-12-21 17:18:31","refnum":"7281EA5CA8B68171DBD0000000000000","voucherid":"TN5","nomor":"6282313018944","nominal":5000,"harga":5825,"serialnumber":"4A61D574138A2D6B4B6","trxid":"C72FA4D302CC4129"}
 [21-12-2021 17:18:32.776]: GW REQUEST to HTTP : http://101.50.3.174:10010/deposit/getsaldo
 [21-12-2021 17:18:32.942]: GW RESPONSE to HTTP : http://101.50.3.174:10010/deposit/getsaldo Response {"rc":"0000","mitra_id":"EZMT0001","saldo":"2241331165"}
+[25-12-2021 15:37:14.448]: GW REQUEST to HTTP : {"device":"HolyiVuGLz+BJ9tGVCCkrjr2sPq8hXnJj6W63EYn5GXL+8vP/CT1Wj1KKByRjsJ7zEBLsjMPUwSpz2aIlEvk2QUWOS1QyvgdF5b1qbJ7yBycA91D527UYNlCCR+lcN7ISGzkg3pY9V67FC/B03BQR9JXWFGfSvkqnJVgf1P6gYAie/8MVQFWyU4Yk5WcQepXIharFqA0UjJkeeJLgNeZbg=="}
+[25-12-2021 15:37:15.133]: GW RESPONSE to HTTP : {"pvt_2":"jxF6a/Y1WFoAQbYKKYbUMQ==","pvt_1":"IzKVN41Y2o1zHv/+M8M97aShvaJ8KlW7gmv1Y+3I0o4=","rc":"0000","pvt_3":"6RvSn1kWUZSeU1TxBe1dng==","rcm":"SUKSES","pvt_0":"d52P9cmgLcAT/WwCKai9kXZV9Euv6TPj5cxlKXZeVw4="}
+[25-12-2021 15:37:34.344]: GW REQUEST to HTTP 
+[25-12-2021 15:37:34.632]: GW RESPONSE to HTTP : {"rc":"0000","mitra_id":"EZMT0001","saldo":"2233385287"}
